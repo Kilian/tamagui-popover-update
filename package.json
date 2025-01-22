@@ -13,10 +13,12 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.6",
-    "tamagui": "1.121.10",
-    "@tamagui/config": "1.121.10",
+    "tamagui": "^1.122.0",
+    "@tamagui/animations-moti": "^1.122.7",
+    "@tamagui/config": "1.122.0",
     "@expo/vector-icons": "^14.0.2",
-    "react-native-paper": "4.9.2"
+    "react-native-paper": "4.9.2",
+    "react-native-reanimated": "~3.16.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
